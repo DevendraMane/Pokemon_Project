@@ -18,14 +18,16 @@ Check out the live version here: [Pokémon Cards App](https://effulgent-cannoli-
 ```
 ├── public
 ├── src
-│   ├── components
-│   │   ├── Card.js
-│   │   ├── SearchBar.js
-│   │   ├── CardList.js
-│   ├── App.js
-│   ├── index.js
-│   ├── styles.css
+│   ├── assets
+│   ├── Pokemon.jsx         
+│   ├── PokemonCards.jsx           
+│   ├── App.jsx
+│   ├── index.css
 ├── package.json
+├── vite.config.js
+├── .gitignore
+├── README.md
+
 ```
 
 ## 🛠️ Technologies Used
